@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-        name="world_api",
+        name="worldapi",
     version="0.1.0",
     author="EngeenerWerch",
     long_description_content_type="text/markdown",
